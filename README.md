@@ -1,6 +1,6 @@
-# 🔥 Forest Fire Prediction Using Weather Conditions
+# Forest Fire Prediction Using Weather Conditions
 
-## 📖 Project Overview
+## Project Overview
 
 This project investigates whether weather conditions can help explain the size of forest fires.
 
@@ -10,7 +10,7 @@ The objective is to identify meaningful relationships between environmental vari
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Wildfires have significant environmental and economic impacts.
 
@@ -20,7 +20,7 @@ This project explores whether historical weather measurements can be used to exp
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Source**
 
@@ -38,7 +38,7 @@ Target variable:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -49,7 +49,7 @@ Target variable:
 
 ---
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -61,7 +61,7 @@ Target variable:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 forest-fire-prediction/
@@ -74,7 +74,7 @@ forest-fire-prediction/
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 In Progress
 
